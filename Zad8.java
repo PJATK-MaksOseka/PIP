@@ -11,7 +11,7 @@ class Zad8 {
             System.out.println("Error.");
         } else {
             System.out.println("Wprowadź kwotę:");
-            double kwota = scan.nextInt();
+            double kwota = scan.nextDouble();
 
             switch (wybor) {
                 case 1:
